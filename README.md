@@ -1,7 +1,7 @@
 google-ip6s
 ===========
 
-ipv6 addrs of google
+ipv6 addrs of google,resulted form nslookup -qt aaaa google.com, or g.cn, or foo.google.com.bar, and sth else like that
 ====================
  2404:6800:4005:805::1008//fastest,250~ms
 
